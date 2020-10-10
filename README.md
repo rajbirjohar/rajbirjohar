@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm [Rajbir](https://rajbirjohar.com). I want to make the web a beautiful place. 
 
