@@ -12,8 +12,8 @@ Some cool facts about me:
 - My favorite movie is [Interstellar](https://www.imdb.com/title/tt0816692/).
 - Subsequently my favorite quote is:
   
-> "It's not possible.\
-> No, It's necessary."
+> "It's not possible."\
+> "No, It's necessary."
 - My favorite favorite food is hands down the grilled cheese.
 
 I'm always up for a conversation, especially about any of these topics so feel free to hit me up. 🤙 
