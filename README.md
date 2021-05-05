@@ -6,6 +6,6 @@ I am a Junior at the University of California, Riverside studying Computer Scien
 
 If I'm not coding, you can catch me perfecting the art of the grilled cheese 🥪 or building bespoke keyboards ⌨️. Gotta invest in your tool of trade, am I right? I'm typing on my [Iron165](https://smithrune.com) (my favorite board ever) with lubricated cream switches. 
 
-You can also find me currently playing through *The Last of Us 2*.
+You can also find me currently playing through *Returnal*.
 
 I'm always up for a conversation. Feel free to hit me up. 🤙 
