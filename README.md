@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Rajbir](https://rajbirjohar.com). I want to make the web a beautiful place. I am a Junior at the University of California, Riverside studying Computer Science. But my real passion lies in frontend web development. 
+I'm [Rajbir](https://rajbir.io). I want to make the web a beautiful place. I am a Junior at the University of California, Riverside studying Computer Science. But my real passion lies in frontend web development. 
 
 If I'm not coding, you can catch me perfecting the art of the grilled cheese or building bespoke keyboards. I'm typing on my [Iron165](https://smithrune.com) (my favorite board ever) with lubricated cream switches. 
 
