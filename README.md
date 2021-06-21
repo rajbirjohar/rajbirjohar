@@ -4,7 +4,7 @@ I'm [Rajbir](https://rajbirjohar.com). I want to make the web a beautiful place.
 
 If I'm not coding, you can catch me perfecting the art of the grilled cheese or building bespoke keyboards. I'm typing on my [Iron165](https://smithrune.com) (my favorite board ever) with lubricated cream switches. 
 
-You can also find me currently playing through *Returnal*. I'm always up for a conversation. Feel free to hit me up.
+You can also find me currently playing through *Ratchet and Clank: Rift Apart*. I'm always up for a conversation. Feel free to hit me up.
 
 <img alt="Alive" src="https://img.shields.io/badge/Alive-Yes-green?&style=for-the-badge&" /> <img alt="Drinking" src="https://img.shields.io/badge/Drinking-Coffee-red?&style=for-the-badge&" /> <img alt="Playing" src="https://img.shields.io/badge/Playing-Jazz-blueviolet?&style=for-the-badge&" />
 
