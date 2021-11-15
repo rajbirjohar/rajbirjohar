@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Frontend Developer based in Southern California, typing on bespoke keyboards,  
-playing through _Ratchet and Clank: Rift Apart_, and perfecting the grilled cheese.  
+playing through _God of War_, and perfecting the grilled cheese.  
 
 Currently studying Computer Science but loving web development. 
 
