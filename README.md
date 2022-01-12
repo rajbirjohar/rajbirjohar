@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hi there 🤙
 
-Frontend Developer based in Southern California, typing on bespoke keyboards,  
-playing through _God of War_, and perfecting the grilled cheese.  
+Glad to have you.
 
-Currently studying Computer Science but loving web development. 
+Frontend Developer based in Southern California. Building and typing on bespoke keyboards. Getting lost on canyon drives during my downtime. Crafting aesthetic interfaces at Inventives for mind blowing ideas. 
 
 <img alt="Drinking" src="https://img.shields.io/badge/Drinking-Coffee-red?&style=for-the-badge&" /> <img alt="Playing" src="https://img.shields.io/badge/Playing-Alternative-blueviolet?&style=for-the-badge&" />
 
 ## Elsewhere
   
-[hello@rajbir.io](hello@rajbir.io) • [Website](https://rajbir.io)
+[Website](https://rajbir.io) • [LinkedIn](https://www.linkedin.com/in/rajbirjohar/) • [Twitter](https://twitter.com/RajbirJohar)
