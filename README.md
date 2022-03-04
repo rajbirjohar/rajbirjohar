@@ -4,7 +4,7 @@ Glad to have you.
 
 Frontend Developer based in Southern California. Building and typing on bespoke keyboards. Getting lost on canyon drives during my downtime. Crafting aesthetic interfaces at Inventives for mind blowing ideas. 
 
-<img alt="Drinking" src="https://img.shields.io/badge/Drinking-Coffee-red?&style=for-the-badge&" /> <img alt="Playing" src="https://img.shields.io/badge/Playing-Alternative-blueviolet?&style=for-the-badge&" />
+My current personal project is [Nexus](https://nexus-ucr.vercel.app/).
 
 ## Elsewhere
   
